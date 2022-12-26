@@ -13,3 +13,4 @@ As our Company is expanding into government bond investment products, the market
 
 ## Business Background
 Analyze the data to better understand customer behavior so that we can make better-tailored campaigns to a few different relevant customer segments by using customer clustering methods based on transaction behavior and demographic factors.
+
